@@ -28,3 +28,13 @@ Start working:
 ```
 npm start
 ```
+
+
+Npm Start works because we have nodemon installed globally.
+
+We then add it to the package.json scripts file:
+```
+"scripts": {
+    "start": "nodemon server.js"
+  }
+```
