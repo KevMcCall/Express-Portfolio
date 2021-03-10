@@ -38,6 +38,6 @@ We then add it to the package.json scripts:
 ```
 
 ### Screenshots
-![](Example01.png)
-
 ![](Example02.png)
+
+![](Example01.png)
