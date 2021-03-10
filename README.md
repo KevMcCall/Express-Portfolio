@@ -30,7 +30,7 @@ npm start
 
 ### npm start works because we have nodemon installed globally.
 
-We then add it to the package.json scripts file:
+We then add it to the package.json scripts:
 ```
 "scripts": {
     "start": "nodemon server.js"
