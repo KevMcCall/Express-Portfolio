@@ -36,3 +36,7 @@ We then add it to the package.json scripts:
     "start": "nodemon server.js"
   }
 ```
+
+### Screenshots
+![](Bootstrap Example01.png)
+![](Bootstrap Example02.png)
