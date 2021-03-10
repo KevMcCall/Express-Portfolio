@@ -19,8 +19,6 @@ npm i express
 npm i bootstrap
 npm init -y
 npm i
-
-
 ```
 
 Start working:
